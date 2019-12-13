@@ -7,6 +7,7 @@ Created on Tue Nov 12 12:32:42 2019
 
 
 #Paquetes
+print("Vamos a la discoteca")
 import sklearn
 from sklearn import metrics
 from sklearn.metrics import make_scorer
